@@ -28,12 +28,6 @@ const productSchema = new Schema(
   }
 );
 
-// productSchema.methods.toJSON = function () {
-//   const { __v, _id, createdAt, updatedAt, ...product } = this.toObject();
-//   product.uid = _id;
-//   return product;
-// };
-
 
 const Product = model("Product", productSchema);
 export default Product;
