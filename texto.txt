@@ -1,0 +1,4 @@
+DB_PASWORD=m0lqn3Kj5S1kF6aZ
+DB_USER=miguelLlanten
+DB_CONNECTION= mongodb+srv://miguelLlanten:m0lqn3Kj5S1kF6aZ@cluster0.rkiqpdm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET=mongodb+srv://miguelLlanten:m0lqn3Kj5S1kF6aZ@cluster0.rkiqpdm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
